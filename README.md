@@ -33,11 +33,11 @@ python manage.py makemigrations
 ```
 python manage.py migrate
 ```
-Create Superuser
+Create Superuser(Ops User) - in our case this is a Ops User
 ```
 python manage.py createsuperuser
 ```
 Run Server
 ```
-python mange.py run server
+python mange.py runserver
 ```
