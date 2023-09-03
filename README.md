@@ -39,5 +39,5 @@ python manage.py createsuperuser
 ```
 Run Server
 ```
-python mange.py runserver
+python manage.py runserver
 ```
